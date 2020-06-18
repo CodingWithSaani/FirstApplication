@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="title">Superior University</string>
+
+    <string name="chairmanMessage">Chairman Message</string>
+    <string name="lifeAtSuperior">Life at Superior</string>
+
+    <string name="admission">Admissions</string>
+    <string name="chat">Chat</string>
+
+    <string name="developedBy">Developed By: Super Heroes</string>
+</resources>

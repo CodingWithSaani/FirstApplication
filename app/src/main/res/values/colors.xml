@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorRelativeLayout">#FF9800</color>
+    <color name="colorTitle">#CCA223</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorRLBackground">#CDDC39</color>
+
+    <color name="colorBoxOne">#A2E358</color>
+    <color name="colorBoxTwo">#789F4B</color>
+</resources>
